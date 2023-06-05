@@ -6,9 +6,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gabriel_vitor_3/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielvitoromorais@gmail.com)
 
-
-
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVitor3&show_icons=true&theme=dark)
 ### Tecnologias habituais 
 
 <div style="display: inline_block"><br/>
@@ -20,3 +17,4 @@
 </div><br>
 
 Estou constantemente em busca de oportunidades para aprimorar meus conhecimentos em tecnologias e linguagens de programação. Com o objetivo de expandir minha experiência, estou em busca de um estágio que proporcione um ambiente de aprendizado enriquecedor. Dessa forma, poderei adquirir novas habilidades e aprofundar meu conhecimento em tecnologias de ponta.
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVitor3&show_icons=true&theme=dark)
