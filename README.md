@@ -15,6 +15,6 @@
 <img align="center" alt=c src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img align="center" alt=java src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br>
-
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVitor3&show_icons=true&theme=dark)<br></br>
 Estou constantemente em busca de oportunidades para aprimorar meus conhecimentos em tecnologias e linguagens de programação. Com o objetivo de expandir minha experiência, estou em busca de um estágio que proporcione um ambiente de aprendizado enriquecedor. Dessa forma, poderei adquirir novas habilidades e aprofundar meu conhecimento em tecnologias de ponta.<br>
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVitor3&show_icons=true&theme=dark)
+
